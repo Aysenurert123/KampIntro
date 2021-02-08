@@ -41,4 +41,3 @@ namespace Donguler
         }
     }
 }
-© 2021 GitHub, Inc.
